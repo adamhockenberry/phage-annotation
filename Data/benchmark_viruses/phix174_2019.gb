@@ -1,0 +1,517 @@
+LOCUS       MN385565                5386 bp    DNA     circular PHG 18-SEP-2019
+DEFINITION  Escherichia virus phiX174, complete genome.
+ACCESSION   MN385565
+VERSION     MN385565.1
+KEYWORDS    .
+SOURCE      Escherichia virus phiX174
+  ORGANISM  Escherichia virus phiX174
+            Viruses; Microviridae; Bullavirinae; Sinsheimervirus.
+REFERENCE   1  (bases 1 to 5386)
+  AUTHORS   Jaschke,P.R., Dotson,G.A., Hung,K., Liu,D. and Endy,D.
+  TITLE     Definitive demonstration by synthesis of genome annotation
+            completeness
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 5386)
+  AUTHORS   Jaschke,P.R., Dotson,G.A., Hung,K., Liu,D. and Endy,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) Molecular Sciences, Macquarie University,
+            E8A 357, Sydney, NSW 2109, Australia
+FEATURES             Location/Qualifiers
+     source          1..5386
+                     /organism="Escherichia virus phiX174"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10847"
+     misc_feature    join(3942..5386,1..136)
+                     /note="ORF 6; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            join(3981..5386,1..136)
+                     /gene="A"
+     CDS             join(3981..5386,1..136)
+                     /gene="A"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein A"
+                     /protein_id="QEP53359.1"
+                     /translation="MVRSYYPSECHADYFDFERIEALKPAIEACGISTLSQSPMLGFH
+                     KQMDNRIKLLEEILSFRMQGVEFDNGDMYVDGHKAASDVRDEFVSVTEKLMDELAQCY
+                     NVLPQLDINNTIDHRPEGDEKWFLENEKTVTQFCRKLAAERPLKDIRDEYNYPKKKGI
+                     KDECSRLLEASTMKSRRGFAIQRLMNAMRQAHADGWFIVFDTLTLADDRLEAFYDNPN
+                     ALRDYFRDIGRMVLAAEGRKANDSHADCYQYFCVPEYGTANGRLHFHAVHFMRTLPTG
+                     SVDPNFGRRVRNRRQLNSLQNTWPYGYSMPIAVRYTQDAFSRSGWLWPVDAKGEPLKA
+                     TSYMAVGFYVAKYVNKKSDMDLAAKGLGAKEWNNSLKTKLSLLPKKLFRIRMSRNFGM
+                     KMLTMTNLSTECLIQLTKLGYDATPFNQILKQNAKREMRLRLGKVTVADVLAAQPVTT
+                     NLLKFMRASIKMIGVSNLQSFIASMTQKLTLSDISDESKNYLDKAGITTACLRIKSKW
+                     TAGGK"
+     misc_feature    join(4164..5386,1..136)
+                     /note="ORF 7; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(4194..5386,1..136)
+                     /note="ORF 8; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(4263..5386,1..136)
+                     /note="ORF 9; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(4272..5386,1..136)
+                     /note="ORF 10; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(4479..5386,1..136)
+                     /note="ORF 11; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            join(4497..5386,1..136)
+                     /gene="A*"
+     CDS             join(4497..5386,1..136)
+                     /gene="A*"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein A*"
+                     /protein_id="QEP53360.1"
+                     /translation="MKSRRGFAIQRLMNAMRQAHADGWFIVFDTLTLADDRLEAFYDN
+                     PNALRDYFRDIGRMVLAAEGRKANDSHADCYQYFCVPEYGTANGRLHFHAVHFMRTLP
+                     TGSVDPNFGRRVRNRRQLNSLQNTWPYGYSMPIAVRYTQDAFSRSGWLWPVDAKGEPL
+                     KATSYMAVGFYVAKYVNKKSDMDLAAKGLGAKEWNNSLKTKLSLLPKKLFRIRMSRNF
+                     GMKMLTMTNLSTECLIQLTKLGYDATPFNQILKQNAKREMRLRLGKVTVADVLAAQPV
+                     TTNLLKFMRASIKMIGVSNLQSFIASMTQKLTLSDISDESKNYLDKAGITTACLRIKS
+                     KWTAGGK"
+     gene            join(5075..5386,1..51)
+                     /gene="B"
+     CDS             join(5075..5386,1..51)
+                     /gene="B"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein B"
+                     /protein_id="QEP53361.1"
+                     /translation="MEQLTKNQAVATSQEAVQNQNEPQLRDENAHNDKSVHGVLNPTY
+                     QAGLRRDAVQPDIEAERKKRDEIEAGKSYCSRRFGGATCDDKSAQIYARFDKNDWRIQ
+                     PAEFYRFHDAEVNTFGYF"
+     misc_feature    join(5136..5386,1..136)
+                     /note="ORF 12; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(5154..5386,1..136)
+                     /note="ORF 13; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(5160..5386,1..136)
+                     /note="ORF 14; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(5169..5386,1..136)
+                     /note="ORF 15; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(5268..5386,1..136)
+                     /note="ORF 16; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    join(5274..5386,1..136)
+                     /note="ORF 17; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            51..221
+                     /gene="K"
+     CDS             51..221
+                     /gene="K"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein K"
+                     /protein_id="QEP53362.1"
+                     /translation="MSRKIILIKQELLLLVYELNRSGLLAENEKIRPILAQLEKLLLC
+                     DLSPSTNDSVKN"
+     misc_feature    69..221
+                     /note="ORF 19; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            133..393
+                     /gene="C"
+     CDS             133..393
+                     /gene="C"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein C"
+                     /protein_id="QEP53363.1"
+                     /translation="MRKFDLSLRSSRSSYFATFRHQLTILSKTDALDEEKWLNMLGTF
+                     VKDWFRYESHFVHGRDSLVDILKERGLLSESDAVQPLIGKKS"
+     misc_feature    complement(136..3954)
+                     /note="ORF 57; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    250..393
+                     /note="ORF 20; conserved open reading frame determined not
+                     to code for a protein during testing"
+     regulatory      313..357
+                     /regulatory_class="promoter"
+                     /note="Promoter D"
+     gene            390..848
+                     /gene="D"
+     CDS             390..848
+                     /gene="D"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein D"
+                     /protein_id="QEP53364.1"
+                     /translation="MSQVTEQSVRFQTALASIKLIQASAVLDLTEDDFDFLTSNKVWI
+                     ATDRSRARRCVEACVYGTLDFVGYPRFPAPVEFIAAVIAYYVHPVNIQTACLIMEGAE
+                     FTENIINGVERPVKAAELFAFTLRVRAGNTDVLTDAEENVRQKLRAEGVM"
+     misc_feature    complement(474..665)
+                     /note="ORF 61; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    520..843
+                     /note="ORF 21; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            568..843
+                     /gene="E"
+     CDS             568..843
+                     /gene="E"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein E"
+                     /protein_id="QEP53365.1"
+                     /translation="MVRWTLWDTLAFLLLLSLLLPSLLIMFIPSTFKRPVSSWKALNL
+                     RKTLLMASSVRLKPLNCSRLPCVYAQETLTFLLTQKKTCVKNYVRKE"
+     misc_feature    complement(818..1051)
+                     /note="ORF 63; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(818..1039)
+                     /note="ORF 62; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            848..964
+                     /gene="J"
+     CDS             848..964
+                     /gene="J"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein J"
+                     /protein_id="QEP53366.1"
+                     /translation="MSKGKKRSGARPGRPQPLRGTKGKRKGARLWYVGGQQF"
+     gene            1001..2284
+                     /gene="F"
+     CDS             1001..2284
+                     /gene="F"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein F"
+                     /protein_id="QEP53367.1"
+                     /translation="MSNIQTGAERMPHDLSHLGFLAGQIGRLITISTTPVIAGDSFEM
+                     DAVGALRLSPLRRGLAIDSTVDIFTFYVPHRHVYGEQWIKFMKDGVNATPLPTVNTTG
+                     YIDHAAFLGTINPDTNKIPKHLFQGYLNIYNNYFKAPWMPDRTEANPNELNQDDARYG
+                     FRCCHLKNIWTAPLPPETELSRQMTTSTTSIDIMGLQAAYANLHTDQERDYFMQRYHD
+                     VISSFGGKTSYDADNRPLLVMRSNLWASGYDVDGTDQTSLGQFSGRVQQTYKHSVPRF
+                     FVPEHGTMFTLALVRFPPTATKEIQYLNAKGALTYTDIAGDPVLYGNLPPREISMKDV
+                     FRSGDSSKKFKIAEGQWYRYAPSYVSPAYHLLEGFPFIQEPPSGDLQERVLIRHHDYD
+                     QCFQSVQLLQWNSQVKFNVTVYRNLPTTRDSIMTS"
+     misc_feature    1038..1196
+                     /note="ORF 22; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(1069..1200)
+                     /note="ORF 64; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(1094..1462)
+                     /note="ORF 65; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1256..2284
+                     /note="ORF 29; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1263..1388
+                     /note="ORF 23; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1272..1388
+                     /note="ORF 24; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1317..1388
+                     /note="ORF 76; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1385..2284
+                     /note="ORF 30; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1449..1553
+                     /note="ORF 25; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1464..1553
+                     /note="ORF 77; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(1474..1578)
+                     /note="ORF 66; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1607..2284
+                     /note="ORF 31; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1686..1775
+                     /note="ORF 78; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(1772..2092)
+                     /note="ORF 67; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1791..1928
+                     /note="ORF 26; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    1850..2284
+                     /note="ORF 32; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2013..2234
+                     /note="ORF 27; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2061..2234
+                     /note="ORF 28; conserved open reading frame determined not
+                     to code for a protein during testing"
+     rep_origin      2308..2351
+                     /note="label: Complementary (-) Strand Origin of
+                     Replication"
+     gene            2395..2922
+                     /gene="G"
+     CDS             2395..2922
+                     /gene="G"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein G"
+                     /protein_id="QEP53368.1"
+                     /translation="MFQTFISRHNSNFFSDKLVLTSVTPASSAPVLQTPKATSSTLYF
+                     DSLTVNAGNGGFLHCIQMDTSVNAANQVVSVGADIAFDADPKFFACLVRFESSSVPTT
+                     LPTAYDVYPLNGRHDGGYYTVKDCVTIDVLPRTPGNNVYVGFMVWSNFTATKCRGLVS
+                     LNQVIKEIICLQPLK"
+     misc_feature    2543..2731
+                     /note="ORF 79; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2552..2731
+                     /note="ORF 80; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2578..2933
+                     /note="ORF 58; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2618..2731
+                     /note="ORF 33; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2773..2922
+                     /note="ORF 34; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(2880..3437)
+                     /note="ORF 69; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(2880..3008)
+                     /note="ORF 68; conserved open reading frame determined not
+                     to code for a protein during testing"
+     gene            2931..3917
+                     /gene="H"
+     CDS             2931..3917
+                     /gene="H"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein H"
+                     /protein_id="QEP53369.1"
+                     /translation="MFGAIAGGIASALAGGAMSKLFGGGQKAASGGIQGDVLATDNNT
+                     VGMGDAGIKSAIQGSNVPNPDEAAPSFVSGAMAKAGKGLLEGTLQAGTSAVSDKLLDL
+                     VGLGGKSAADKGKDTRDYLAAAFPELNAWERAGADASSAGMVDAGFENQKELTKMQLD
+                     NQKEIAEMQNETQKEIAGIQSATSRQNTKDQVYAQNEMLAYQQKESTARVASIMENTN
+                     LSKQQQVSEIMRQMLTQAQTAGQYFTNDQIKEMTRKVSAEVDLVHQQTQNQRYGSSHI
+                     GATAKDISNVVTDAASGVVDIFHGIDKAVADTWNNFWKDGKADGIGSNLSRK"
+     misc_feature    2935..3066
+                     /note="ORF 35; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2938..3066
+                     /note="ORF 36; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2968..3066
+                     /note="ORF 37; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    2991..3917
+                     /note="ORF 52; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3039..3917
+                     /note="ORF 53; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3073..3684
+                     /note="ORF 38; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3076..3684
+                     /note="ORF 39; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3109..3684
+                     /note="ORF 40; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3142..3684
+                     /note="ORF 41; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3181..3684
+                     /note="ORF 42; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3192..3917
+                     /note="ORF 54; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3283..3684
+                     /note="ORF 43; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3292..3684
+                     /note="ORF 44; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3316..3684
+                     /note="ORF 81; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3334..3684
+                     /note="ORF 45; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3340..3684
+                     /note="ORF 46; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3399..3917
+                     /note="ORF 55; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3424..3684
+                     /note="ORF 47; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3432..3917
+                     /note="ORF 56; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3439..3684
+                     /note="ORF 48; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3457..3684
+                     /note="ORF 49; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(3480..3671)
+                     /note="ORF 72; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(3480..3623)
+                     /note="ORF 71; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(3480..3596)
+                     /note="ORF 70; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3508..3684
+                     /note="ORF 82; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3559..3684
+                     /note="ORF 50; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    3784..3930
+                     /note="ORF 51; conserved open reading frame determined not
+                     to code for a protein during testing"
+     regulatory      3918..3961
+                     /regulatory_class="promoter"
+                     /note="Promoter A"
+     misc_feature    4060..4263
+                     /note="ORF 1; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    4186..4263
+                     /note="ORF 73; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    4198..4263
+                     /note="ORF 74; conserved open reading frame determined not
+                     to code for a protein during testing"
+     rep_origin      4299..4328
+                     /note="Viral (+) strand origin of replication"
+     CDS             4429..4500
+                     /note="ORF 75; conserved open reading frame determined to
+                     produce a valid protein during testing"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QEP53370.1"
+                     /translation="MSIITPKRKVLRMSVQDCWRPPL"
+     misc_feature    4621..4857
+                     /note="ORF 2; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    4699..4857
+                     /note="ORF 3; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    4756..4857
+                     /note="ORF 4; conserved open reading frame determined not
+                     to code for a protein during testing"
+     regulatory      4798..4842
+                     /regulatory_class="promoter"
+                     /note="Promoter B1"
+     regulatory      4854..4898
+                     /regulatory_class="promoter"
+                     /note="Promoter B2"
+     misc_feature    4954..5064
+                     /note="ORF 5; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(5006..5167)
+                     /note="ORF 59; conserved open reading frame determined not
+                     to code for a protein during testing"
+     misc_feature    complement(5193..5318)
+                     /note="ORF 60; conserved open reading frame determined not
+                     to code for a protein during testing"
+ORIGIN      
+        1 gagttttatc gcttccatga cgcagaagtt aacactttcg gatatttctg atgagtcgaa
+       61 aaattatctt gataaagcag gaattactac tgcttgttta cgaattaaat cgaagtggac
+      121 tgctggcgga aaatgagaaa attcgaccta tccttgcgca gctcgagaag ctcttacttt
+      181 gcgacctttc gccatcaact aacgattctg tcaaaaactg acgcgttgga tgaggagaag
+      241 tggcttaata tgcttggcac gttcgtcaag gactggttta gatatgagtc acattttgtt
+      301 catggtagag attctcttgt tgacatttta aaagagcgtg gattactatc tgagtccgat
+      361 gctgttcaac cactaatagg taagaaatca tgagtcaagt tactgaacaa tccgtacgtt
+      421 tccagaccgc tttggcctct attaagctca ttcaggcttc tgccgttttg gatttaaccg
+      481 aagatgattt cgattttctg acgagtaaca aagtttggat tgctactgac cgctctcgtg
+      541 ctcgtcgctg cgttgaggct tgcgtttatg gtacgctgga ctttgtggga taccctcgct
+      601 ttcctgctcc tgttgagttt attgctgccg tcattgctta ttatgttcat cccgtcaaca
+      661 ttcaaacggc ctgtctcatc atggaaggcg ctgaatttac ggaaaacatt attaatggcg
+      721 tcgagcgtcc ggttaaagcc gctgaattgt tcgcgtttac cttgcgtgta cgcgcaggaa
+      781 acactgacgt tcttactgac gcagaagaaa acgtgcgtca aaaattacgt gcggaaggag
+      841 tgatgtaatg tctaaaggta aaaaacgttc tggcgctcgc cctggtcgtc cgcagccgtt
+      901 gcgaggtact aaaggcaagc gtaaaggcgc tcgtctttgg tatgtaggtg gtcaacaatt
+      961 ttaattgcag gggcttcggc cccttacttg aggataaatt atgtctaata ttcaaactgg
+     1021 cgccgagcgt atgccgcatg acctttccca tcttggcttc cttgctggtc agattggtcg
+     1081 tcttattacc atttcaacta ctccggttat cgctggcgac tccttcgaga tggacgccgt
+     1141 tggcgctctc cgtctttctc cattgcgtcg tggccttgct attgactcta ctgtagacat
+     1201 ttttactttt tatgtccctc atcgtcacgt ttatggtgaa cagtggatta agttcatgaa
+     1261 ggatggtgtt aatgccactc ctctcccgac tgttaacact actggttata ttgaccatgc
+     1321 cgcttttctt ggcacgatta accctgatac caataaaatc cctaagcatt tgtttcaggg
+     1381 ttatttgaat atctataaca actattttaa agcgccgtgg atgcctgacc gtaccgaggc
+     1441 taaccctaat gagcttaatc aagatgatgc tcgttatggt ttccgttgct gccatctcaa
+     1501 aaacatttgg actgctccgc ttcctcctga gactgagctt tctcgccaaa tgacgacttc
+     1561 taccacatct attgacatta tgggtctgca agctgcttat gctaatttgc atactgacca
+     1621 agaacgtgat tacttcatgc agcgttacca tgatgttatt tcttcatttg gaggtaaaac
+     1681 ctcttatgac gctgacaacc gtcctttact tgtcatgcgc tctaatctct gggcatctgg
+     1741 ctatgatgtt gatggaactg accaaacgtc gttaggccag ttttctggtc gtgttcaaca
+     1801 gacctataaa cattctgtgc cgcgtttctt tgttcctgag catggcacta tgtttactct
+     1861 tgcgcttgtt cgttttccgc ctactgcgac taaagagatt cagtacctta acgctaaagg
+     1921 tgctttgact tataccgata ttgctggcga ccctgttttg tatggcaact tgccgccgcg
+     1981 tgaaatttct atgaaggatg ttttccgttc tggtgattcg tctaagaagt ttaagattgc
+     2041 tgagggtcag tggtatcgtt atgcgccttc gtatgtttct cctgcttatc accttcttga
+     2101 aggcttccca ttcattcagg aaccgccttc tggtgatttg caagaacgcg tacttattcg
+     2161 ccaccatgat tatgaccagt gtttccagtc cgttcagttg ttgcagtgga atagtcaggt
+     2221 taaatttaat gtgaccgttt atcgcaatct gccgaccact cgcgattcaa tcatgacttc
+     2281 gtgataaaag attgagtgtg aggttataac gccgaagcgg taaaaatttt aatttttgcc
+     2341 gctgaggggt tgaccaagcg aagcgcggta ggttttctgc ttaggagttt aatcatgttt
+     2401 cagactttta tttctcgcca taattcaaac tttttttctg ataagctggt tctcacttct
+     2461 gttactccag cttcttcggc acctgtttta cagacaccta aagctacatc gtcaacgtta
+     2521 tattttgata gtttgacggt taatgctggt aatggtggtt ttcttcattg cattcagatg
+     2581 gatacatctg tcaacgccgc taatcaggtt gtttctgttg gtgctgatat tgcttttgat
+     2641 gccgacccta aattttttgc ctgtttggtt cgctttgagt cttcttcggt tccgactacc
+     2701 ctcccgactg cctatgatgt ttatcctttg aatggtcgcc atgatggtgg ttattatacc
+     2761 gtcaaggact gtgtgactat tgacgtcctt ccccgtacgc cgggcaataa cgtttatgtt
+     2821 ggtttcatgg tttggtctaa ctttaccgct actaaatgcc gcggattggt ttcgctgaat
+     2881 caggttatta aagagattat ttgtctccag ccacttaagt gaggtgattt atgtttggtg
+     2941 ctattgctgg cggtattgct tctgctcttg ctggtggcgc catgtctaaa ttgtttggag
+     3001 gcggtcaaaa agccgcctcc ggtggcattc aaggtgatgt gcttgctacc gataacaata
+     3061 ctgtaggcat gggtgatgct ggtattaaat ctgccattca aggctctaat gttcctaacc
+     3121 ctgatgaggc cgcccctagt tttgtttctg gtgctatggc taaagctggt aaaggacttc
+     3181 ttgaaggtac gttgcaggct ggcacttctg ccgtttctga taagttgctt gatttggttg
+     3241 gacttggtgg caagtctgcc gctgataaag gaaaggatac tcgtgattat cttgctgctg
+     3301 catttcctga gcttaatgct tgggagcgtg ctggtgctga tgcttcctct gctggtatgg
+     3361 ttgacgccgg atttgagaat caaaaagagc ttactaaaat gcaactggac aatcagaaag
+     3421 agattgccga gatgcaaaat gagactcaaa aagagattgc tggcattcag tcggcgactt
+     3481 cacgccagaa tacgaaagac caggtatatg cacaaaatga gatgcttgct tatcaacaga
+     3541 aggagtctac tgctcgcgtt gcgtctatta tggaaaacac caatctttcc aagcaacagc
+     3601 aggtttccga gattatgcgc caaatgctta ctcaagctca aacggctggt cagtatttta
+     3661 ccaatgacca aatcaaagaa atgactcgca aggttagtgc tgaggttgac ttagttcatc
+     3721 agcaaacgca gaatcagcgg tatggctctt ctcatattgg cgctactgca aaggatattt
+     3781 ctaatgtcgt cactgatgct gcttctggtg tggttgatat ttttcatggt attgataaag
+     3841 ctgttgccga tacttggaac aatttctgga aagacggtaa agctgatggt attggctcta
+     3901 atttgtctag gaaataaccg tcaggattga caccctccca attgtatgtt ttcatgcctc
+     3961 caaatcttgg aggctttttt atggttcgtt cttattaccc ttctgaatgt cacgctgatt
+     4021 attttgactt tgagcgtatc gaggctctta aacctgctat tgaggcttgt ggcatttcta
+     4081 ctctttctca atccccaatg cttggcttcc ataagcagat ggataaccgc atcaagctct
+     4141 tggaagagat tctgtctttt cgtatgcagg gcgttgagtt cgataatggt gatatgtatg
+     4201 ttgacggcca taaggctgct tctgacgttc gtgatgagtt tgtatctgtt actgagaagt
+     4261 taatggatga attggcacaa tgctacaatg tgctccccca acttgatatt aataacacta
+     4321 tagaccaccg ccccgaaggg gacgaaaaat ggtttttaga gaacgagaag acggttacgc
+     4381 agttttgccg caagctggct gctgaacgcc ctcttaagga tattcgcgat gagtataatt
+     4441 accccaaaaa gaaaggtatt aaggatgagt gttcaagatt gctggaggcc tccactatga
+     4501 aatcgcgtag aggctttgct attcagcgtt tgatgaatgc aatgcgacag gctcatgctg
+     4561 atggttggtt tatcgttttt gacactctca cgttggctga cgaccgatta gaggcgtttt
+     4621 atgataatcc caatgctttg cgtgactatt ttcgtgatat tggtcgtatg gttcttgctg
+     4681 ccgagggtcg caaggctaat gattcacacg ccgactgcta tcagtatttt tgtgtgcctg
+     4741 agtatggtac agctaatggc cgtcttcatt tccatgcggt gcactttatg cggacacttc
+     4801 ctacaggtag cgttgaccct aattttggtc gtcgggtacg caatcgccgc cagttaaata
+     4861 gcttgcaaaa tacgtggcct tatggttaca gtatgcccat cgcagttcgc tacacgcagg
+     4921 acgctttttc acgttctggt tggttgtggc ctgttgatgc taaaggtgag ccgcttaaag
+     4981 ctaccagtta tatggctgtt ggtttctatg tggctaaata cgttaacaaa aagtcagata
+     5041 tggaccttgc tgctaaaggt ctaggagcta aagaatggaa caactcacta aaaaccaagc
+     5101 tgtcgctact tcccaagaag ctgttcagaa tcagaatgag ccgcaacttc gggatgaaaa
+     5161 tgctcacaat gacaaatctg tccacggagt gcttaatcca acttaccaag ctgggttacg
+     5221 acgcgacgcc gttcaaccag atattgaagc agaacgcaaa aagagagatg agattgaggc
+     5281 tgggaaaagt tactgtagcc gacgttttgg cggcgcaacc tgtgacgaca aatctgctca
+     5341 aatttatgcg cgcttcgata aaaatgattg gcgtatccaa cctgca
+//
+

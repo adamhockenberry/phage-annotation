@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=5386;seqhdr="MN385565.1 Escherichia virus phiX174, complete genome"
+# Model Data: version=Prodigal.v2.6.3;run_type=Single;model="Ab initio";gc_cont=50.79;transl_table=11;uses_sd=1
+MN385565.1	Prodigal_v2.6.3	CDS	51	221	2.0	+	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.404;conf=61.46;score=2.03;cscore=-2.87;sscore=4.90;rscore=2.01;uscore=0.74;tscore=2.65;
+MN385565.1	Prodigal_v2.6.3	CDS	390	848	40.4	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.468;conf=99.99;score=40.43;cscore=31.69;sscore=8.74;rscore=2.99;uscore=1.81;tscore=3.94;
+MN385565.1	Prodigal_v2.6.3	CDS	848	964	11.6	+	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.496;conf=93.48;score=11.59;cscore=1.49;sscore=10.09;rscore=6.77;uscore=0.24;tscore=1.80;
+MN385565.1	Prodigal_v2.6.3	CDS	1001	2284	106.1	+	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.449;conf=100.00;score=106.06;cscore=89.46;sscore=16.59;rscore=11.24;uscore=0.54;tscore=3.94;
+MN385565.1	Prodigal_v2.6.3	CDS	2395	2922	27.1	+	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.420;conf=99.80;score=27.13;cscore=9.93;sscore=17.20;rscore=14.85;uscore=-1.59;tscore=3.94;
+MN385565.1	Prodigal_v2.6.3	CDS	2931	3917	102.0	+	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.451;conf=100.00;score=101.99;cscore=83.04;sscore=18.95;rscore=11.24;uscore=2.59;tscore=3.94;
+MN385565.1	Prodigal_v2.6.3	CDS	3981	5384	100.2	+	0	ID=1_7;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.455;conf=100.00;score=100.22;cscore=83.08;sscore=17.13;rscore=12.51;uscore=0.69;tscore=3.94;
